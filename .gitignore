@@ -1,0 +1,11 @@
+.wp-admin/
+.wp-includes/
+
+/wp-admin/
+/wp-includes/
+
+/wp-admin/*
+/wp-includes/*
+
+.wp-admin/*
+.wp-includes/*
