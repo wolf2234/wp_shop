@@ -1,4 +1,4 @@
-# CodeIgniterUsers
+# WP Shop
 
 ## How to start?
 
