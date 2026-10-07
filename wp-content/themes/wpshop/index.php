@@ -8,6 +8,7 @@
 </head>
 <body>
     <div class="wrapper">
+        <p style="color: red;">Page Shop</p>
         <?php include 'includes/header.php';?>
         <div class="">
             <main class="main">
